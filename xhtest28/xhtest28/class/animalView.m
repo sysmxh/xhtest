@@ -14,5 +14,8 @@
 {
     NSLog(@"夜空中最亮的星");
 }
-
+- (void)syncMethed
+{
+    NSLog(@"syncMethed");
+}
 @end
